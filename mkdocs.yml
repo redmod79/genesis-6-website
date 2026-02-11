@@ -1,0 +1,123 @@
+site_name: "Genesis 6: Sons of God"
+site_description: A comprehensive biblical analysis of the "Sons of God" in Genesis 6, defending the Godly Human view based on sola scriptura methodology
+site_url: https://redmod79.github.io/genesis-6-website/
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.follow
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+plugins:
+  - search
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/solid/book-bible
+      link: /
+
+extra_javascript:
+  - javascripts/verse-popup.js
+  - javascripts/study-breadcrumbs.js
+  - javascripts/external-links.js
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Home: index.md
+  - Report:
+    - Overview: report/00-overview.md
+    - The Positive Case: report/01-positive-case.md
+    - "Jesus's Teaching": report/02-jesus-teaching.md
+    - Terminology Rebuttal: report/03-terminology-rebuttal.md
+    - NT Cross-References: report/04-nt-cross-references.md
+    - Nephilim and Flood: report/05-nephilim-and-flood.md
+    - Historical Context: report/06-historical-context.md
+    - The Verdict: report/07-verdict.md
+    - Methodology: report/08-methodology.md
+    - Study References: report/09-study-references.md
+  - Supporting Studies:
+    - Core Synthesis:
+      - Initial Analysis: studies/genesis-6-sons-of-god/CONCLUSION.md
+      - 12-Study Synthesis: studies/genesis-6-sons-of-god_2/CONCLUSION.md
+      - 27-Study Comprehensive: studies/genesis-6-sons-of-god-comprehensive-synthesis/CONCLUSION.md
+    - Genesis Context & Grammar:
+      - Genesis 4-5 Narrative Context: studies/genesis-4-5-narrative-context-genesis-6/CONCLUSION.md
+      - "Genesis 6:4 Grammar": studies/genesis-6-4-grammar-analysis/CONCLUSION.md
+    - Linguistic & Translation:
+      - LXX-NT Comparison: studies/genesis-6-lxx-nt-comparison/CONCLUSION.md
+      - Septuagint Translation: studies/septuagint-genesis-6-translation/CONCLUSION.md
+      - NT Sons of God (Humans): studies/nt-sons-of-god-humans/CONCLUSION.md
+      - Hebrew-Greek Comparison: studies/hebrew-greek-sons-of-god-comparison/CONCLUSION.md
+      - "God's People vs Angels Terms": studies/gods-people-vs-angels-terminology/CONCLUSION.md
+      - "Moses' Angel Terminology": studies/moses-angel-terminology/CONCLUSION.md
+      - Moses Human-God Terms: studies/moses-human-god-relationship-terms/CONCLUSION.md
+    - "Jesus's Teaching":
+      - Angels & Marriage Ceiling: studies/jesus-angels-marriage-hermeneutical-ceiling/CONCLUSION.md
+      - Days of Noah: studies/matthew-24-days-of-noah/CONCLUSION.md
+    - OT Passages:
+      - "Psalm 82 'Gods'": studies/psalm-82-gods/CONCLUSION.md
+      - "Deuteronomy 32:8": studies/deuteronomy-32-8-sons-of-god/CONCLUSION.md
+    - NT Cross-References:
+      - "2 Peter 2:4": studies/2-peter-2-4-angels-that-sinned/CONCLUSION.md
+      - "Jude 6-7 Angels' Sin": studies/jude-6-7-angels-sin/CONCLUSION.md
+      - "Jude 1:7 'In Like Manner'": studies/jude-1-6-7-in-like-manner/CONCLUSION.md
+      - "Strange Flesh (Jude 1:7)": studies/strange-flesh-jude-1-7/CONCLUSION.md
+      - 1 Peter 3 Spirits in Prison: studies/1-peter-3-spirits-in-prison/CONCLUSION.md
+    - Nephilim & Angels:
+      - Nephilim Origin: studies/nephilim-origin/CONCLUSION.md
+      - Angels Physical Form: studies/angels-physical-form/CONCLUSION.md
+    - Flood & Corruption:
+      - All Flesh Corrupted: studies/all-flesh-corrupted/CONCLUSION.md
+      - Flood Judgment Severity: studies/flood-judgment-severity/CONCLUSION.md
+    - Historical & Methodological:
+      - Second Temple Literature: studies/second-temple-literature-genesis-6/CONCLUSION.md
+      - Pentateuch Sexual Legislation: studies/pentateuch-sexual-legislation-angel-unions/CONCLUSION.md
+      - Explicit vs Implied Evidence: studies/genesis-6-explicit-vs-implied-evidence/CONCLUSION.md
