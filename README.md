@@ -1,5 +1,7 @@
 # Genesis 6: Sons of God - Study Website
 
+**Live site: https://redmod79.github.io/genesis-6-website/**
+
 A standalone MkDocs Material website presenting a comprehensive biblical analysis of the "Sons of God" in Genesis 6:1-4.
 
 ## Contents
