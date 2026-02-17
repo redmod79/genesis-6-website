@@ -241,7 +241,7 @@ While the grammar permits both readings, several considerations favor Option B:
 
 However, this argument alone is not decisive -- it must be weighed with the other evidence.
 
-*For the full grammatical analysis with NT parallel constructions and counterexamples, see the [Greek Grammar Deep Dive](#jude-17-constructio-ad-sensum--greek-grammar-deep-dive) section below. For the full studies, see [strange-flesh-jude-1-7](../studies/strange-flesh-jude-1-7/CONCLUSION.md) and [jude-1-6-7-in-like-manner](../studies/jude-1-6-7-in-like-manner/CONCLUSION.md).*
+*For the full grammatical analysis with NT parallel constructions and counterexamples, see the [Greek Grammar Deep Dive](#jude-17-constructio-ad-sensum-greek-grammar-deep-dive) section below. For the full studies, see [strange-flesh-jude-1-7](../studies/strange-flesh-jude-1-7/CONCLUSION.md) and [jude-1-6-7-in-like-manner](../studies/jude-1-6-7-in-like-manner/CONCLUSION.md).*
 
 ---
 
