@@ -40,3 +40,15 @@ This study is organized as a 10-part report, each section examining a different 
 ## Supporting Studies
 
 This report is built on **28 in-depth supporting studies** covering topics from Hebrew and Greek word studies to grammar analysis to systematic theology. Each study is available in the [Supporting Studies](studies/genesis-6-sons-of-god/CONCLUSION.md) section of the navigation. These studies provide the detailed evidence and analysis that the report summarizes and synthesizes.
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 31-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. Each study is a self-contained investigation produced by the same three-agent pipeline. |
