@@ -199,3 +199,15 @@ The interpreter must weigh:
 - [jude-1-6-7-in-like-manner](../jude-1-6-7-in-like-manner/CONCLUSION.md) - What does "in like manner" refer to?
 - `../jude-6-everlasting-chains/` - What are "everlasting chains under darkness"?
 - [jude-6-7-angels-sin](../jude-6-7-angels-sin/CONCLUSION.md) - What was the angels' sin in Jude 6?
+
+---
+
+## Companion Sites
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

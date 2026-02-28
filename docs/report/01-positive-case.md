@@ -296,3 +296,15 @@ These arguments establish the textual meaning within its own context.
 ---
 
 *Report based on the following studies: [genesis-4-5-narrative-context-genesis-6](../studies/genesis-4-5-narrative-context-genesis-6/CONCLUSION.md), [genesis-6-sons-of-god](../studies/genesis-6-sons-of-god/CONCLUSION.md), [nt-sons-of-god-humans](../studies/nt-sons-of-god-humans/CONCLUSION.md), [hebrew-greek-sons-of-god-comparison](../studies/hebrew-greek-sons-of-god-comparison/CONCLUSION.md), [genesis-6-lxx-nt-comparison](../studies/genesis-6-lxx-nt-comparison/CONCLUSION.md), [septuagint-genesis-6-translation](../studies/septuagint-genesis-6-translation/CONCLUSION.md)*
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

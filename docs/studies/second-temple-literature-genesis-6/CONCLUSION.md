@@ -188,3 +188,15 @@ The human interpretation continues the pattern: "sons of God" = godly humans, "d
 *Research files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
 *Tools used: semantic_studies.py, naves_db.py, search_strongs.py (--lookup, --lexicon, --verses), greek_parser.py, concept_context.py, cross_testament_parallels_v2.py*
 *Related studies: 12 prerequisite/related studies referenced*
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

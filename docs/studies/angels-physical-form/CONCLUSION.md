@@ -181,3 +181,15 @@ Jesus's teaching that angels do not marry (Matt 22:30; Mark 12:25; Luke 20:35-36
 *Study completed: 2025-12-29*
 *Prerequisite studies: [jude-6-7-angels-sin](../jude-6-7-angels-sin/CONCLUSION.md), [moses-angel-terminology](../moses-angel-terminology/CONCLUSION.md), [genesis-6-sons-of-god](../genesis-6-sons-of-god/CONCLUSION.md)*
 *Files: 01-topics.md, 02-verses.md, 03-analysis.md, 04-word-studies.md*
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

@@ -265,3 +265,15 @@ This study advocates the human view but acknowledges:
 ---
 
 *Next: [09-study-references.md](09-study-references.md) -- Study References*
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

@@ -112,3 +112,15 @@ The Nephilim were **present** during the time of the unions. The unions produced
 *Study completed: 2026-01-03*
 *Tools used: hebrew_parser.py (Text-Fabric), search_strongs.py, clause structure analysis*
 *Related studies: [nephilim-origin](../nephilim-origin/CONCLUSION.md), [genesis-6-sons-of-god](../genesis-6-sons-of-god/CONCLUSION.md)*
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |

@@ -276,3 +276,15 @@ The Job parallel establishes that "sons of God" **can** mean angels in a heavenl
 ---
 
 *Sources: bbcode-post-2-v3.txt; [gods-people-vs-angels-terminology](../studies/gods-people-vs-angels-terminology/CONCLUSION.md); [moses-angel-terminology](../studies/moses-angel-terminology/CONCLUSION.md); [moses-human-god-relationship-terms](../studies/moses-human-god-relationship-terms/CONCLUSION.md); [psalm-82-gods](../studies/psalm-82-gods/CONCLUSION.md); [deuteronomy-32-8-sons-of-god](../studies/deuteronomy-32-8-sons-of-god/CONCLUSION.md); [septuagint-genesis-6-translation](../studies/septuagint-genesis-6-translation/CONCLUSION.md)*
+
+---
+
+## Related Studies
+
+These companion sites use the same tool-driven research methodology:
+
+| Site | Description |
+|------|-------------|
+| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument about the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
+| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 19-study investigation examining every major text, word, and argument about the final fate of the wicked -- eternal conscious torment vs. conditional immortality. 597 evidence items classified. |
+| [**Bible Studies Collection**](https://redmod79.github.io/bible-studies-website/) | 85 standalone Bible studies on various topics -- death, prophecy, angels, word studies, and more. Each study is produced by the same tool-driven research methodology. |
