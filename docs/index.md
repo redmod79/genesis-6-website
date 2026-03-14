@@ -4,6 +4,9 @@
 
 ---
 
+!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
+    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
+
 ## The Question
 
 Genesis 6:1-4 describes a time when "the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose." This passage has generated centuries of debate. Were the "sons of God" fallen angels who married human women, or were they the godly line of Seth intermarrying with the ungodly line of Cain?
@@ -40,18 +43,3 @@ This study is organized as a 10-part report, each section examining a different 
 ## Supporting Studies
 
 This report is built on **28 in-depth supporting studies** covering topics from Hebrew and Greek word studies to grammar analysis to systematic theology. Each study is available in the [Supporting Studies](studies/genesis-6-sons-of-god/CONCLUSION.md) section of the navigation. These studies provide the detailed evidence and analysis that the report summarizes and synthesizes.
-
----
-
-## Related Studies
-
-These companion sites use the same tool-driven research methodology:
-
-| Site | Description |
-|------|-------------|
-| [**The Historicist Proof**](https://redmod79.github.io/hist-website/) | A 19-study investigation examining whether Daniel and Revelation describe continuous history from the prophet's time to the second coming. 496 evidence items classified. |
-| [**The Law of God**](https://redmod79.github.io/law-website/) | A 33-study investigation examining every major text, word, and argument bearing on the moral law, ceremonial law, the Sabbath, and what continues under the New Covenant. 810 evidence items classified. |
-| [**The Final Fate of the Wicked**](https://redmod79.github.io/etc-website/) | A 21-study investigation examining every major text, word, and argument about the final fate of the wicked. 632 evidence items classified. |
-| [**Does Paul Contradict Jesus?**](https://redmod79.github.io/pvj-website/) | A 22-study investigation examining every major alleged contradiction between Paul and Jesus -- faith vs works, the law, food laws, circumcision, and more. |
-| [**The Ten Commandments**](https://redmod79.github.io/cmd-website/) | A 17-study investigation of the Ten Commandments -- origin, meaning, Hebrew and Greek word studies, love and law, faith and obedience. 1,054 evidence items classified. |
-| [**Bible Study Collection**](https://redmod79.github.io/bible-topics-website/) | Standalone Bible studies on various topics -- genealogies, prophecy, biblical history, and more. |
