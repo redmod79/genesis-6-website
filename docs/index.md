@@ -3,10 +3,6 @@
 *Who are the "sons of God" in Genesis 6:1-4? A comprehensive biblical analysis based on sola scriptura methodology.*
 
 ---
-
-!!! info "Part of the [Bible Study Series](https://redmod79.github.io/bible-study-hub/)"
-    This study is one of several series using the same tool-driven, sola scriptura research methodology. [Browse all series](https://redmod79.github.io/bible-study-hub/).
-
 ## The Question
 
 Genesis 6:1-4 describes a time when "the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose." This passage has generated centuries of debate. Were the "sons of God" fallen angels who married human women, or were they the godly line of Seth intermarrying with the ungodly line of Cain?
